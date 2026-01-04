@@ -18,3 +18,6 @@ Each program is placed in its own folder under `src/` and comes with a dedicated
 
 ## Compile and Run
 See the README file inside each program folder for specific instructions.
+
+## Author
+**Mouheb Hadbi** – This program is part of my OpenMP educational projects demonstrating the race condition problem.
